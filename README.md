@@ -9,10 +9,13 @@
 ## To try back home
 
 1. A lesson you can try back home https://github.com/fhakamine/lab/girlsWhoCode.pdf
-2. To pick the best colors: https://color.adobe.com
-3. To design custom layouts: https://canva.com
-4. To be a social developer: https://github.com
-5. To write your own codepens: https://codepen.io
+2. Okta Developers (Sign-In widget): https://developer.okta.com/code/javascript/okta_sign-in_widget.html
+3. Okta dev forum: https://devforum.okta.com
+4. Okta on github :D : https://github.com/okta
+5. To pick the best colors: https://color.adobe.com
+6. To design custom layouts: https://canva.com
+7. To be a social developer: https://github.com
+8. To write your own codepens: https://codepen.io
 
 
 ### Some backgrounds
