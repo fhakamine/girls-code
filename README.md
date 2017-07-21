@@ -4,6 +4,7 @@
 
 1. Codepen: https://codepen.io/fhakamine/pen/QgYZqJ
 2. Google images: https://images.google.com
+3. Social Authentication example: https://chrisbarry-okta.github.io
 
 ## Homework stuff
 
