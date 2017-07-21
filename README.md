@@ -25,7 +25,8 @@
 - City Antennas: https://media.giphy.com/media/lfxm47k9RPM0E/source.gif
 
 
-### Cool Python stuff
+## Cool Python stuff
+
 1. https://github.com/okta/samples-python-flask
 2. https://github.com/okta/samples-python-django
 3. https://www.youtube.com/watch?v=fPW66abobMI
