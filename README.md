@@ -23,3 +23,9 @@
 - Day and night: https://i.imgur.com/7U14JMc.gif
 - Matrix: http://cdn.wallpapersafari.com/11/33/EaO4ew.gif
 - City Antennas: https://media.giphy.com/media/lfxm47k9RPM0E/source.gif
+
+
+### Cool Python stuff
+1. https://github.com/okta/samples-python-flask
+2. https://github.com/okta/samples-python-django
+3. https://www.youtube.com/watch?v=fPW66abobMI
